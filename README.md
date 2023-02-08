@@ -15,7 +15,7 @@ operands. The third register, addressed by a 5-bit destination register field DR
 the register location for the result. A 7-bit OPCODE provides for a maximum of
 128 operations.<br/><br/>
 <p align="center">
-  <img src="https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/instruction_formats.png" width="350" title="hover text">
+  <img src="https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/instruction_formats.png" title="instruction formats">
 </p>
 
 

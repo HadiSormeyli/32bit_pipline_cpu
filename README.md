@@ -1,6 +1,7 @@
 # 32bit_pipline_cpu
 
-32 bit pipelined RISC CPU created using logisim.<br /><br />
+32 bit pipelined RISC CPU created using logisim.<br />
+support data hazards and control hazards.<br />
 ![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/32_pipline_cpu.png)
 
 <br />
@@ -12,7 +13,7 @@ to accommodate in the RISC CPU. The first format specifies three registers. The 
 registers addressed by the 5-bit source register fields SA and SB contain the two
 operands. The third register, addressed by a 5-bit destination register field DR, specifies
 the register location for the result. A 7-bit OPCODE provides for a maximum of
-128 operations.<br/>
+128 operations.<br/><br/>
 ![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/instruction_formats.png)
 
 

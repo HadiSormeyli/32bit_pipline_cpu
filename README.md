@@ -19,7 +19,6 @@ the register location for the result. A 7-bit OPCODE provides for a maximum of
 </p>
 
 <h1>Opcodes</h1> 
-<br />
 <p align="center">
   <img src="https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/opcodes.png" title="opcodes">
 </p>

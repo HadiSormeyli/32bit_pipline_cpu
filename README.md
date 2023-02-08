@@ -14,13 +14,13 @@ registers addressed by the 5-bit source register fields SA and SB contain the tw
 operands. The third register, addressed by a 5-bit destination register field DR, specifies
 the register location for the result. A 7-bit OPCODE provides for a maximum of
 128 operations.<br/><br/>
-![Model](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/instruction_formats.png)
+![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/instruction_formats.png)
 
 
 <br />
 <h1>Opcodes</h1> 
-<br /><br/>
-![Model](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/opcodes.png)
+<br />
+![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/opcodes.png)
 <br /><br/>
 As an example for instruction:<br/>
 MOVA R1,R3;<br/>

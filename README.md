@@ -1,7 +1,7 @@
 # 32bit_pipline_cpu
 
 32 bit pipelined RISC CPU created using logisim.<br />
-support data hazards and control hazards.<br />
+support data hazards and control hazards.<br /><br/>
 ![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/32_pipline_cpu.png)
 
 <br />
@@ -19,3 +19,9 @@ the register location for the result. A 7-bit OPCODE provides for a maximum of
 
 <br />
 <h1>Opcodes</h1> 
+<br /><br/>
+![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/opcodes.png)
+<br /><br/>
+As an example for instruction:<br/>
+MOVA R1,R3;
+the binary instruction code will be 10000000000100011000000000000000

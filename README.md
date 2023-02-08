@@ -1,5 +1,4 @@
 # 32bit_pipline_cpu
-
 32 bit pipelined RISC CPU created using logisim.<br />
 support data hazards and control hazards.<br /><br/>
 ![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/32_pipline_cpu.png)

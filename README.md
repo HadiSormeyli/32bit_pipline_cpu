@@ -3,8 +3,8 @@
 32 bit pipelined RISC CPU created using logisim.<br />
 
 <br />
-# Instruction formats
+<h1>Instruction formats<\h1> 
 
 
 <br />
-# Opcodes
+<h1>Opcodes<\h1> 

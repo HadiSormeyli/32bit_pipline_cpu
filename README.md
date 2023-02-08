@@ -23,5 +23,5 @@ the register location for the result. A 7-bit OPCODE provides for a maximum of
 ![alt text](https://github.com/HadiSormeyli/32bit_pipline_cpu/blob/main/img/opcodes.png)
 <br /><br/>
 As an example for instruction:<br/>
-MOVA R1,R3;
-the binary instruction code will be 10000000000100011000000000000000
+MOVA R1,R3;<br/>
+the binary instruction code will be 10000000000100011000000000000000.
